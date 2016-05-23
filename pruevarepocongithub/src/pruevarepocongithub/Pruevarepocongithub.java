@@ -16,7 +16,7 @@ public class Pruevarepocongithub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("prueva 2 subir archivo ");
+        System.out.println("prueva 2 subir archivo");
     }
     
 }
